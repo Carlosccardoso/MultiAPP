@@ -1,5 +1,5 @@
-Multi App
-Multi App é uma coleção de aplicações web desenvolvidas com React. O objetivo deste projeto é reunir diversos mini-aplicativos em uma única interface, permitindo ao usuário explorar diferentes funcionalidades em um único lugar. Cada aplicativo foi criado para demonstrar diferentes aspectos do desenvolvimento front-end, incluindo manipulação de estado, navegação, interações e integração com APIs.
+
+*MULTIAPP* é uma coleção de aplicações web desenvolvidas com React. O objetivo deste projeto é reunir diversos mini-aplicativos em uma única interface, permitindo ao usuário explorar diferentes funcionalidades em um único lugar. Cada aplicativo foi criado para demonstrar diferentes aspectos do desenvolvimento front-end, incluindo manipulação de estado, navegação, interações e integração com APIs.
 
 
 Visão Geral
@@ -34,7 +34,7 @@ Passos para execução
 
 Clone o repositório:
 bash
-git clone https://github.com/seu-usuario/multi-app.git
+git clone https://github.com/Carlosccardoso/MultiAPP
 cd multi-app
 
 Instale as dependências:
