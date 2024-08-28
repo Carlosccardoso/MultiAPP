@@ -48,23 +48,6 @@ Execute o projeto:
 bash
 npm run dev
 
-Estrutura de Arquivos
-A estrutura principal do projeto é a seguinte:
-
-Copiar código
-multi-app/
-├── public/
-├── src/
-│   ├── assets/             # Imagens e outros recursos estáticos
-│   ├── components/         # Componentes reutilizáveis
-│   ├── pages/              # Mini-aplicativos e páginas principais
-│   ├── App.js              # Componente principal
-│   ├── index.js            # Arquivo de entrada
-│   └── estilo-home.css     # Estilos para a página inicial
-├── .gitignore
-├── package.json
-└── README.md
-
 Contribuição
 Contribuições são bem-vindas! Se você tem alguma ideia ou encontrou um problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
